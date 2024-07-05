@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "@thestudentroom/razzle",
   "homepage": "https://github.com/thestudentroom/razzle#readme",
   "repository": {
     "type": "git",
