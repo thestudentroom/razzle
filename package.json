@@ -1,12 +1,12 @@
 {
   "private": true,
-  "homepage": "https://github.com/jaredpalmer/razzle#readme",
+  "homepage": "https://github.com/thestudentroom/razzle#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaredpalmer/razzle.git"
+    "url": "git+https://github.com/thestudentroom/razzle.git"
   },
   "bugs": {
-    "url": "https://github.com/jaredpalmer/razzle/issues"
+    "url": "https://github.com/thestudentroom/razzle/issues"
   },
   "resolutions": {
     "**/**/node-gyp": "7.0.0"
